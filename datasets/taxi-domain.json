@@ -1,0 +1,1 @@
+{"DOLocationID": 261, "PULocationID": 259, "RatecodeID": 7, "VendorID": 2, "fare_amount": 32, "passenger_count": 6, "payment_type": 4, "store_and_fwd_flag": 2, "tip_amount": 32, "tolls_amount": 32, "total_amount": 32, "tpep_dropoff_datetime": 32, "tpep_pickup_datetime": 32, "trip_distance": 32}
